@@ -1,11 +1,18 @@
 {
     "name": "infrangible/m2-cms-block-meta-data",
-    "description": "Infrangible Magento 2 CMS Block Meta Data",
+    "description": "Adds meta title, meta keywords and meta description fields to CMS blocks and applies them to the page on which the block is shown as a widget.",
     "type": "magento2-module",
     "version": "1.0.1",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce",
+        "SEO",
+        "Content",
+        "meta data for CMS blocks",
+        "meta title from widgets",
+        "CMS block SEO fields"
     ],
     "homepage": "https://github.com/infrangible-dev/m2-cms-block-meta-data",
     "authors": [
